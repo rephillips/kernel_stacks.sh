@@ -3,7 +3,8 @@ https://github.com/rephillips/kernel_stacks.sh/blob/main/kstacks.sh
 
 vi kstacks.sh
 
-b.) create the OUTPUT_DIR
+b.) create the OUTPUT_DIR:
+
 mkdir /tmp/kstacks
 
 
