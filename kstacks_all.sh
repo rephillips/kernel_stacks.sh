@@ -1,6 +1,6 @@
 #!/bin/bash 
 OUTPUT_DIR=/tmp/kstacks 
-SAMPLE_PERIOD=2
+SAMPLE_PERIOD=1
 while true
 do
 for i in `ps auxww | awk '{print $2,$8}' | grep -v PID | awk '{print $1}'` ; do
