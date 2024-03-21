@@ -1,4 +1,4 @@
-a.) create the script located here:
+a.) in the /tmp directory of your target Splunk instance, create the script located here:
 https://github.com/rephillips/kernel_stacks.sh/blob/main/kstacks_all.sh
 
 vi kstacks_all.sh
