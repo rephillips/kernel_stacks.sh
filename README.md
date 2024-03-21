@@ -10,11 +10,11 @@ mkdir /tmp/kstacks
 
 c.) switch to root user "sudo su" and give the file executable permissions:
 
-chmod +x kstacks.sh
+chmod +x kstacks_all.sh
 
 
 d.) run the script:
-./kstacks.sh
+./kstacks_all.sh
 
 
 
