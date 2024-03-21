@@ -8,7 +8,7 @@ b.) create the OUTPUT_DIR:
 mkdir /tmp/kstacks
 
 
-c.) give the file executable permissions:
+c.) switch to root user "sudo su" and give the file executable permissions:
 
 chmod +x kstacks.sh
 
